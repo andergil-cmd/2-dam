@@ -1,0 +1,4 @@
+Fecha actual: 12/09/2026
+Hora actual: 18:14:48,22
+Nombre del usuario: Propietario
+Directorio donde se encuentra el batch: C:\Users\Propietario\eclipse-workspace\Multiproceso

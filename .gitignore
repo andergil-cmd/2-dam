@@ -1,0 +1,16 @@
+# Archivos de configuración de IDEs (Eclipse / VS Code)
+.metadata/
+.settings/
+.classpath
+.project
+bin/
+.factorypath
+
+# Node / Angular (Desarrollo Interfaces)
+node_modules/
+dist/
+.angular/
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store

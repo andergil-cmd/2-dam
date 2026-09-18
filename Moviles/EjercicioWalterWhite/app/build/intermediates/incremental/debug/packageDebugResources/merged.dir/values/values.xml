@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Ejercicio Walter White</string>
+    <string name="imagen_de_llamada">imagen de llamada</string>
+    <string name="imagen_walter_white_descripcion">imagen Walter White</string>
+    <string name="textoLlamando">Llamando a Walter White</string>
+    <string name="textoPulsa">Pulsa para llamar a Walter White</string>
+    <style name="Base.Theme.EjercicioWalterWhite" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.EjercicioWalterWhite" parent="Base.Theme.EjercicioWalterWhite"/>
+</resources>

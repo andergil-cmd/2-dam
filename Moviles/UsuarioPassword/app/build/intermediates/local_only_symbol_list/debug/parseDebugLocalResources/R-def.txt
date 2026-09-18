@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button
+id main
+id passwordEditText
+id passwordText
+id usuarioEditText
+id usuarioText
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string button
+string password
+string textoPassword
+string textoUsuario
+string usuario
+style Base.Theme.UsuarioPassword
+style Theme.UsuarioPassword
+xml backup_rules
+xml data_extraction_rules

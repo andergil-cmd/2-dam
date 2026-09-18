@@ -1,0 +1,23 @@
+com.example.ejercicio1
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button
+id editText
+id main
+id textView
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string button
+string button2
+string editText
+string esPrimo
+string noEsPrimo
+string textView
+style Base_Theme_Ejercicio1
+style Theme_Ejercicio1
+xml backup_rules
+xml data_extraction_rules

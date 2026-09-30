@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UD3_Ejer16</string>
+    <string name="texto">Aqui saldra tu eleccion</string>
+    <string name="buttonProvincia">Selecciona tu provincia</string>
+    <string name="radiobutton1">Gipuzkoa</string>
+    <string name="radioButton2">Vizcaya</string>
+    <string name="radiobutton3">Alaba</string>
+    <string name="radiobutton4">Nafarroa</string>
+    <string name="radiobutton5">Santurtzi</string>
+    <string name="radiobutton6">Lapundi</string>
+</resources>

@@ -12,6 +12,10 @@
         "source": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.7.1\\com.example.ejercicio3.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
+        "merged": "com.example.ejercicio3.app-debug-34:/layout_activity_main.xml.flat",
+        "source": "com.example.ejercicio3.app-main-36:/layout/activity_main.xml"
+    },
+    {
         "merged": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.7.1\\com.example.ejercicio3.app-debug-34:\\mipmap-hdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.7.1\\com.example.ejercicio3.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
     },

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SpaceInvaders</string>
+    <string name="titulo">Space Invaders</string>
+    <string name="buttonReiniciar">Reiniciar</string>
+    <string name="Instrucciones">Instrucciones</string>
+    <string name="buttonEmpezar">Empezar</string>
+    <string name="tvTituloPregunta1">QUIZ FRIKI</string>
+    <string name="tvPregunta1">¿Cómo se llamaba el maestro Sith de Darth Sidious (Palpatine), conocido en las leyendas por su profunda obsesión con la manipulación de los midiclorianos para crear vida?\n</string>
+    <string name="rbDarthTenebrous">Darth Tenebrous</string>
+    <string name="rbDarthBane">Darth Bane</string>
+    <string name="rbDarthValorum">Darth Valorum</string>
+    <string name="rbDarthPlagueis">Darth Plagueis</string>
+    <string name="btnSiguientePregunta">Siguiente Pregunta</string>
+    <string name="tvPregunta2">En Dragon Ball Z, ¿cuál es el verdadero nombre del Androide 17 antes de ser capturado y modificado cibernéticamente por el Dr. Gero junto a su hermana gemela?</string>
+    <string name="rbLazuli">Lazuli</string>
+    <string name="rbRota">Rota</string>
+    <string name="rbGero">Gero</string>
+    <string name="rbLapis">Lapis</string>
+    <string name="tvPregunta3">En los cómics clásicos de Marvel, ¿de qué raza alienígena tecnológicamente avanzada provienen verdaderamente los diez anillos místicos que porta habitualmente el Mandarín?\n</string>
+    <string name="rbKree">Kree</string>
+    <string name="rbChitauri">Chitauri</string>
+    <string name="rbSkrulls">Skrulls</string>
+    <string name="rbMakluanos">Makluanos</string>
+    <string name="tvPregunta4">¿Qué luchador logró consagrarse como campeón absoluto del 23º Torneo de Artes Marciales (Tenkaichi Budokai) tras una brutal batalla final contra Piccolo Jr.?</string>
+    <string name="rbTenshinhan">Ten Shin Han</string>
+    <string name="rbKrillin">Krillin</string>
+    <string name="rbGoku">Son Goku</string>
+    <string name="rbSatan">Mr. Satan</string>
+    <string name="btnFinalizar">Finalizar Quiz</string>
+    <string name="resultados">Has acertado %2$d preguntas</string>
+</resources>

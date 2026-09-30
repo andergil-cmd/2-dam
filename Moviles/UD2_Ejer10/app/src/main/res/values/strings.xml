@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UD2_Ejer10</string>
+    <string name="tvNombre">Nombre:</string>
+    <string name="tvApellido">Apellido:</string>
+    <string name="tvDNI">DNI:</string>
+    <string name="tvSexo">Sexo:</string>
+    <string name="tvNac">Fecha Nac:</string>
+    <string name="etNombre">Nombre</string>
+    <string name="etApellido">Apellido</string>
+    <string name="etDNI">DNI</string>
+    <string name="rbHombre">Hombre</string>
+    <string name="rbMujer">Mujer</string>
+    <string name="tvFecha">Fecha</string>
+    <string name="ivImagen">Imagen de sexo</string>
+    <string name="button">Aceptar</string>
+</resources>

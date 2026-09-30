@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UD2_Ejer10</string>
+    <string name="tvNombre">Izena:</string>
+    <string name="tvApellido">Abizena:</string>
+    <string name="tvDNI">NAN:</string>
+    <string name="tvSexo">Sexua:</string>
+    <string name="tvNac">Jaiotze data:</string>
+    <string name="etNombre">Izena</string>
+    <string name="etApellido">Abizena</string>
+    <string name="etDNI">NAN</string>
+    <string name="rbHombre">Gizona</string>
+    <string name="rbMujer">Emakumea</string>
+    <string name="tvFecha">Data</string>
+    <string name="ivImagen">Sexuaren irudia</string>
+    <string name="button">Onartu</string>
+</resources>

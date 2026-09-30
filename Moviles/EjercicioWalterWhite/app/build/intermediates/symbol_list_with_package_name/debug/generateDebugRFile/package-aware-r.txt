@@ -1,14 +1,17 @@
 com.example.ejerciciowalterwhite
 color black
 color white
+drawable heisenberg
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable telefono_rojo
+drawable telefono_verde
 drawable walter_white
 drawable walter_white2
-id imageButtonPulsar
-id imageView
+id btnLlamar
+id ivWalter
 id main
-id textView
+id tvEstado
 layout activity_main
 mipmap ic_launcher
 mipmap ic_launcher_round

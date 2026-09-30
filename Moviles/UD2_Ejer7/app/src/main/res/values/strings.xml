@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UD2_Ejer7</string>
+    <string name="tvUser">User:</string>
+    <string name="tvPassword">Password:</string>
+    <string name="name">Usuario</string>
+    <string name="button">Confirmar</string>
+</resources>

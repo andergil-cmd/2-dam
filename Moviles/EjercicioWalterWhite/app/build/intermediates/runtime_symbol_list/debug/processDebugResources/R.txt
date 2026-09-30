@@ -3717,6 +3717,7 @@ int drawable design_ic_visibility 0x7f070083
 int drawable design_ic_visibility_off 0x7f070084
 int drawable design_password_eye 0x7f070085
 int drawable design_snackbar_background 0x7f070086
+int drawable heisenberg 0x7f070127
 int drawable ic_arrow_back_black_24 0x7f070087
 int drawable ic_call_answer 0x7f070088
 int drawable ic_call_answer_low 0x7f070089
@@ -3872,6 +3873,8 @@ int drawable notification_template_icon_bg 0x7f07011e
 int drawable notification_template_icon_low_bg 0x7f07011f
 int drawable notification_tile_bg 0x7f070120
 int drawable notify_panel_notification_icon_bg 0x7f070121
+int drawable telefono_rojo 0x7f070128
+int drawable telefono_verde 0x7f070129
 int drawable test_level_drawable 0x7f070122
 int drawable tooltip_frame_dark 0x7f070123
 int drawable tooltip_frame_light 0x7f070124
@@ -3982,6 +3985,7 @@ int id bounce 0x7f080065
 int id bounceBoth 0x7f080066
 int id bounceEnd 0x7f080067
 int id bounceStart 0x7f080068
+int id btnLlamar 0x7f08021a
 int id buttonPanel 0x7f080069
 int id cache_measures 0x7f08006a
 int id callMeasure 0x7f08006b
@@ -4110,8 +4114,6 @@ int id ifRoom 0x7f0800e5
 int id ignore 0x7f0800e6
 int id ignoreRequest 0x7f0800e7
 int id image 0x7f0800e8
-int id imageButtonPulsar 0x7f0800e9
-int id imageView 0x7f0800ea
 int id immediateStop 0x7f0800eb
 int id included 0x7f0800ec
 int id indeterminate 0x7f0800ed
@@ -4121,6 +4123,7 @@ int id invisible 0x7f0800f0
 int id inward 0x7f0800f1
 int id italic 0x7f0800f2
 int id item_touch_helper_previous_elevation 0x7f0800f3
+int id ivWalter 0x7f08021b
 int id jumpToEnd 0x7f0800f4
 int id jumpToStart 0x7f0800f5
 int id labeled 0x7f0800f6
@@ -4359,7 +4362,6 @@ int id textSpacerNoButtons 0x7f0801de
 int id textSpacerNoTitle 0x7f0801df
 int id textStart 0x7f0801e0
 int id textTop 0x7f0801e1
-int id textView 0x7f0801e2
 int id text_input_end_icon 0x7f0801e3
 int id text_input_error_icon 0x7f0801e4
 int id text_input_start_icon 0x7f0801e5
@@ -4389,6 +4391,7 @@ int id transition_position 0x7f0801fc
 int id transition_scene_layoutid_cache 0x7f0801fd
 int id transition_transform 0x7f0801fe
 int id triangle 0x7f0801ff
+int id tvEstado 0x7f08021c
 int id unchecked 0x7f080200
 int id uniform 0x7f080201
 int id unlabeled 0x7f080202

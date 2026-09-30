@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UD_Ejer 11</string>
+    <string name="nombre_apellidos">%1$s %2$s</string>
+    <string name="edad_formato">Edad: %1$d</string>
+    <string name="buttonAgregar">Nuevo Usuario:</string>
+    <string name="buttonBorrar">Borrar Usuario:</string>
+    <string name="buttonModificar">Modificar usuario:</string>
+</resources>

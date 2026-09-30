@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio Walter White</string>
+    <string name="textoPulsa">Pulsa para llamar a Walter White</string>
+    <string name="textoLlamando">Llamando a Walter White</string>">
+    <string name="imagen_de_llamada">imagen de llamada</string>
+    <string name="imagen_walter_white_descripcion">imagen Walter White</string>
+</resources>

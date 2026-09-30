@@ -1,78 +1,98 @@
 [
     {
+        "merged": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-debug-40:\\drawable-normal_walter_white.jpg.flat",
+        "source": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-main-42:\\drawable-normal\\walter_white.jpg"
+    },
+    {
+        "merged": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-debug-40:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-main-42:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-debug-40:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-main-42:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
         "merged": "com.example.ejerciciowalterwhite.app-debug-40:/layout_activity_main.xml.flat",
         "source": "com.example.ejerciciowalterwhite.app-main-42:/layout/activity_main.xml"
     },
     {
-        "merged": "com.example.ejerciciowalterwhite.app-debug-40:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.ejerciciowalterwhite.app-main-42:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-debug-40:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-main-42:\\mipmap-anydpi\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.ejerciciowalterwhite.app-debug-40:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.ejerciciowalterwhite.app-main-42:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-debug-40:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-main-42:\\mipmap-anydpi\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.ejerciciowalterwhite.app-debug-40:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.ejerciciowalterwhite.app-main-42:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-debug-40:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-main-42:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.ejerciciowalterwhite.app-debug-40:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.ejerciciowalterwhite.app-main-42:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-debug-40:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-main-42:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.ejerciciowalterwhite.app-debug-40:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.ejerciciowalterwhite.app-main-42:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-debug-40:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-main-42:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.ejerciciowalterwhite.app-debug-40:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.ejerciciowalterwhite.app-main-42:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-debug-40:\\drawable_walter_white.jpg.flat",
+        "source": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-main-42:\\drawable\\walter_white.jpg"
     },
     {
-        "merged": "com.example.ejerciciowalterwhite.app-debug-40:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.ejerciciowalterwhite.app-main-42:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-debug-40:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-main-42:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.ejerciciowalterwhite.app-debug-40:/mipmap-anydpi_ic_launcher_round.xml.flat",
-        "source": "com.example.ejerciciowalterwhite.app-main-42:/mipmap-anydpi/ic_launcher_round.xml"
+        "merged": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-debug-40:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-main-42:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.ejerciciowalterwhite.app-debug-40:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.ejerciciowalterwhite.app-main-42:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-debug-40:\\drawable_telefono_rojo.png.flat",
+        "source": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-main-42:\\drawable\\telefono_rojo.png"
     },
     {
-        "merged": "com.example.ejerciciowalterwhite.app-debug-40:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.ejerciciowalterwhite.app-main-42:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-debug-40:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-main-42:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.ejerciciowalterwhite.app-debug-40:/drawable-normal_walter_white.jpg.flat",
-        "source": "com.example.ejerciciowalterwhite.app-main-42:/drawable-normal/walter_white.jpg"
+        "merged": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-debug-40:\\drawable_walter_white2.jpg.flat",
+        "source": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-main-42:\\drawable\\walter_white2.jpg"
     },
     {
-        "merged": "com.example.ejerciciowalterwhite.app-debug-40:/xml_backup_rules.xml.flat",
-        "source": "com.example.ejerciciowalterwhite.app-main-42:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-debug-40:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.ejerciciowalterwhite.app-debug-40:/mipmap-anydpi_ic_launcher.xml.flat",
-        "source": "com.example.ejerciciowalterwhite.app-main-42:/mipmap-anydpi/ic_launcher.xml"
+        "merged": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-debug-40:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-main-42:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.ejerciciowalterwhite.app-debug-40:/drawable_walter_white2.jpg.flat",
-        "source": "com.example.ejerciciowalterwhite.app-main-42:/drawable/walter_white2.jpg"
+        "merged": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-debug-40:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-main-42:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.ejerciciowalterwhite.app-debug-40:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.ejerciciowalterwhite.app-main-42:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-debug-40:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-main-42:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.ejerciciowalterwhite.app-debug-40:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.ejerciciowalterwhite.app-main-42:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-debug-40:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-main-42:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.ejerciciowalterwhite.app-debug-40:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.ejerciciowalterwhite.app-main-42:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-debug-40:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-main-42:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.ejerciciowalterwhite.app-debug-40:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.ejerciciowalterwhite.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-debug-40:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-main-42:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-debug-40:\\drawable_telefono_verde.png.flat",
+        "source": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-main-42:\\drawable\\telefono_verde.png"
+    },
+    {
+        "merged": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-debug-40:\\drawable_heisenberg.jpg.flat",
+        "source": "C:\\Users\\in2dm3-v\\.gradle\\daemon\\9.5.0\\com.example.ejerciciowalterwhite.app-main-42:\\drawable\\heisenberg.jpg"
     }
 ]

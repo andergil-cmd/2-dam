@@ -296,6 +296,7 @@ public class EjerBinario extends JFrame implements ActionListener {
 				}
 				
 				listaNuevosResultados.clear();
+				escritor_datos.close();
 				
 				JOptionPane.showMessageDialog(this, "Nuevos datos añadidos con éxito al fichero Resultados.dat.");
 			} catch (IOException error) {

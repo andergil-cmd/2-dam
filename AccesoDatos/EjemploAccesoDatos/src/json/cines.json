@@ -1,0 +1,86 @@
+{
+  "cines": [
+    {
+      "nombre": "Cines Golem",
+      "ciudad": "Bilbao",
+      "direccion": "Alameda de Urquijo, 4",
+      "peliculas": [
+        {
+          "titulo": "Interstellar",
+          "genero": "Ciencia ficción",
+          "duracion": 169,
+          "sesiones": [
+            {
+              "hora": "17:00",
+              "sala": 1,
+              "precio": 7.50
+            },
+            {
+              "hora": "20:15",
+              "sala": 1,
+              "precio": 8.50
+            }
+          ]
+        },
+        {
+          "titulo": "El Señor de los Anillos",
+          "genero": "Fantasía",
+          "duracion": 178,
+          "sesiones": [
+            {
+              "hora": "18:30",
+              "sala": 2,
+              "precio": 7.50
+            },
+            {
+              "hora": "21:45",
+              "sala": 2,
+              "precio": 8.50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Cines Yelmo",
+      "ciudad": "Barakaldo",
+      "direccion": "Centro Comercial Megapark",
+      "peliculas": [
+        {
+          "titulo": "Avatar",
+          "genero": "Ciencia ficción",
+          "duracion": 162,
+          "sesiones": [
+            {
+              "hora": "16:45",
+              "sala": 3,
+              "precio": 7.90
+            },
+            {
+              "hora": "19:30",
+              "sala": 3,
+              "precio": 8.90
+            }
+          ]
+        },
+        {
+          "titulo": "Gladiator",
+          "genero": "Acción",
+          "duracion": 155,
+          "sesiones": [
+            {
+              "hora": "18:00",
+              "sala": 4,
+              "precio": 7.90
+            },
+            {
+              "hora": "21:15",
+              "sala": 4,
+              "precio": 8.90
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
